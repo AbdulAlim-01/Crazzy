@@ -1,0 +1,63 @@
+name: "crazzy_ai_tool"
+description: "A new Flutter project."
+publish_to: "none"
+version: "0.0.1+1"
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: "flutter"
+  cupertino_icons: "^1.0.8"
+  http: "^1.1.0"
+  path_provider: "^2.1.1"
+  file: "^6.1.4"
+  process_run: "^0.14.0"
+  url_launcher: "^6.2.1"
+  google_fonts: "^6.1.0"
+  flutter_highlight: "^0.7.0"
+  flutter_code_editor: "^0.3.3"
+  shared_preferences: "^2.2.2"
+  image_picker: "^1.0.4"
+  file_picker: "^6.1.1"
+  flutter_colorpicker: "^1.0.3"
+  icons_launcher: "^3.0.1"
+  rename_app: "^1.6.3"
+  xterm: "^4.0.0"
+  supabase_flutter: 
+  device_preview: "^1.2.0"
+  loading_animation_widget: "^1.3.0"
+  inno_build: "^0.4.0"
+  google_sign_in: ^6.1.5 
+
+dev_dependencies:
+  flutter_test:
+    sdk: "flutter"
+  inno_bundle: "^0.9.0"
+  flutter_lints: "^2.0.0"
+
+icons_launcher:
+  image_path: "assets/logo.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
+    web:
+      enable: true
+    windows:
+      enable: true
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/"
+    - "assets/loading.riv"
+    - "assets/logo.png"
+    - "assets/loading.json"
+inno_bundle:
+  id: "b776a540-457d-11f0-b35d-69cd77c75811"
+  publisher: "Abdul Alim"
+  name: "Crazzy"
+  installer_icon: "assets/logo.ico"
+  version: "0.0.1"
+inno_build:
+  app_id: "0abc3e78-3040-4dbc-81a4-d363e7283934"
