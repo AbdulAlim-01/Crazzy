@@ -3,7 +3,7 @@
 The free, open-source, offline desktop version of Crazzy. An AI tool that generates boilerplate Flutter code from simple text prompts.
 
 
-![banner](https://jfesxawwgjxquxcsskug.supabase.co/storage/v1/object/sign/ss/open%20source%20banner.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV84OTQwMzJlOS04NGZlLTQxNzctOTk1NC1hM2RmMzg2ZDFlYjgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzcy9vcGVuIHNvdXJjZSBiYW5uZXIucG5nIiwiaWF0IjoxNzU4NzI2Mjk5LCJleHAiOjMzMjk0NzI2Mjk5fQ.MrW-JXJb0sBYjd9ufIImKjtQMIHMfI9x3IUuFKxLq1c)
+![banner](https://jfesxawwgjxquxcsskug.supabase.co/storage/v1/object/sign/ss/open%20source%20banner.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV84OTQwMzJlOS04NGZlLTQxNzctOTk1NC1hM2RmMzg2ZDFlYjgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzcy9vcGVuIHNvdXJjZSBiYW5uZXIucG5nIiwiaWF0IjoxNzU4NzI2NTMxLCJleHAiOjQ5MTIzMjY1MzF9.vwHMD_CraQsmGnYuYN9UM2d2weyXTUg_ipu88yQwuVA)
 ---
 
 > ## ⚠️ **IMPORTANT: THIS IS THE OLD, UNMAINTAINED VERSION** ⚠️
