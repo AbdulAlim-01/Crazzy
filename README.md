@@ -86,7 +86,7 @@ License
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/AbdulAlim-01/Crazzy/blob/main/LICENSE)
 This project is licensed under the MIT License. Feel free to play with it, break it, and learn from it.
 
 P.S. Seriously, go check out the cloud version at [crazzy.dev](https://crazzy.dev). It's 100x better.
