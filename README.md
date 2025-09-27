@@ -4,15 +4,25 @@ The free, open-source, offline desktop version of Crazzy. An AI tool that genera
 
 
 ![banner](https://jfesxawwgjxquxcsskug.supabase.co/storage/v1/object/sign/ss/banner.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV84OTQwMzJlOS04NGZlLTQxNzctOTk1NC1hM2RmMzg2ZDFlYjgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzcy9iYW5uZXIucG5nIiwiaWF0IjoxNzU4NzI3MjQ1LCJleHAiOjQ5MTIzMjcyNDV9.BiGezmzOJIT5U0emlLHVrmduWNpUo4FeUNPkyzdAZN0)
----
 
-> ## ⚠️ **IMPORTANT: THIS IS THE OLD, UNMAINTAINED VERSION** ⚠️
+---
+> ## ✨ This is the Community Edition. Want More Power?
 >
-> This Community Edition was the original proof-of-concept for Crazzy. It is **no longer actively developed** and may have bugs.
+> This open-source version is the heart of Crazzy. It's powerful, free forever, and will be actively maintained with the help of the community (that's you!).
 >
-> For the new, much more powerful, **cloud-based version** with backend integration (Supabase), 1-click publishing, a better AI model, and more, please check out the official website and join the waitlist:
+> We also have a **Cloud Version** for professional developers and teams who need more firepower.
 >
-> ### 🚀 **Visit [crazzy.dev](https://www.crazzy.dev) to get the real deal!** 🚀
+> **Here's the difference:**
+>
+> | Feature                  | **Community Edition (Free)** | **Cloud Version (Paid)**        |
+> | ------------------------ | ---------------------------- | ------------------------------- |
+> | **AI Code Generation**   | ✅ (Standard Model)          | ✅✅ (Pro Model - More Complex) |
+> | **Backend Integration**  | ✅ (Manual Setup)            | ✅✅ (1-Click OAuth Setup)      |
+> | **1-Click Publishing**   | ❌                           | ✅ (Coming Soon!)               |
+> | **Team Collaboration**   | ❌                           | ✅ (Coming Soon!)               |
+> | **Template Library**     | ❌                           | ✅                              |
+>
+> ### 🚀 **Upgrade to the Cloud Version at [crazzy.dev](https://www.crazzy.dev)** 🚀
 
 ---
 
