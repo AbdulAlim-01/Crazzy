@@ -3,7 +3,7 @@
 The free, open-source, offline desktop version of Crazzy. An AI tool that generates boilerplate Flutter code from simple text prompts.
 
 
-![banner](https://jfesxawwgjxquxcsskug.supabase.co/storage/v1/object/sign/ss/banner.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV84OTQwMzJlOS04NGZlLTQxNzctOTk1NC1hM2RmMzg2ZDFlYjgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzcy9iYW5uZXIucG5nIiwiaWF0IjoxNzU4NzI3MjQ1LCJleHAiOjQ5MTIzMjcyNDV9.BiGezmzOJIT5U0emlLHVrmduWNpUo4FeUNPkyzdAZN0)
+![banner]((https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/banner.png))
 
 ---
 > ## ✨ This is the Community Edition. Want More Power?
@@ -75,15 +75,15 @@ That's it! Now you can start building.
 
 ## Screenshots
 
-![App Screenshot](https://zwdelydqjmyoxcjdgnqf.supabase.co/storage/v1/object/sign/app/Screenshot%20(175).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mZTZlMjM0NS1mYjkyLTQ1MjQtYWI2ZC0xNjNiMjhhYmY0OTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhcHAvU2NyZWVuc2hvdCAoMTc1KS5wbmciLCJpYXQiOjE3NTg3MjMyNTUsImV4cCI6NDkxMjMyMzI1NX0.IgTZKbeg0Bc_O-5udtech1IOW18fSnjy_3_JJGfYNAM)
+![App Screenshot](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/Screenshot%20(175).png)
 
-![App Screenshot](https://zwdelydqjmyoxcjdgnqf.supabase.co/storage/v1/object/sign/app/Screenshot%20(179).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mZTZlMjM0NS1mYjkyLTQ1MjQtYWI2ZC0xNjNiMjhhYmY0OTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhcHAvU2NyZWVuc2hvdCAoMTc5KS5wbmciLCJpYXQiOjE3NTg3MjMyODIsImV4cCI6NDkxMjMyMzI4Mn0.Amp2-M87BgJbMvNFr8I0o1_H6UJ1OwBHSaz9UUeLQQM)
+![App Screenshot](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/Screenshot%20(179).png)
 
-![App Screenshot](https://zwdelydqjmyoxcjdgnqf.supabase.co/storage/v1/object/sign/app/Screenshot%20(176).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mZTZlMjM0NS1mYjkyLTQ1MjQtYWI2ZC0xNjNiMjhhYmY0OTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhcHAvU2NyZWVuc2hvdCAoMTc2KS5wbmciLCJpYXQiOjE3NTg3MjMzMDYsImV4cCI6NDkxMjMyMzMwNn0.TE8oPavpBvEVOnNzY0WtFDoo6IbAXIYpAZqSFhCgUls)
+![App Screenshot](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/Screenshot%20(176).png)
 
-![App Screenshot](https://zwdelydqjmyoxcjdgnqf.supabase.co/storage/v1/object/sign/app/Screenshot%20(178).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mZTZlMjM0NS1mYjkyLTQ1MjQtYWI2ZC0xNjNiMjhhYmY0OTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhcHAvU2NyZWVuc2hvdCAoMTc4KS5wbmciLCJpYXQiOjE3NTg3MjMzMjIsImV4cCI6NDkxMjMyMzMyMn0.lYfeSa4Yn2OyrSBUn40AXo18vaZZab7MkbEEMQhd9x0)
+![App Screenshot](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/Screenshot%20(178).png)
 
-![App Screenshot](https://zwdelydqjmyoxcjdgnqf.supabase.co/storage/v1/object/sign/app/Screenshot%20(180).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mZTZlMjM0NS1mYjkyLTQ1MjQtYWI2ZC0xNjNiMjhhYmY0OTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhcHAvU2NyZWVuc2hvdCAoMTgwKS5wbmciLCJpYXQiOjE3NTg3MjMzNDIsImV4cCI6NDkxMjMyMzM0Mn0.3o3JPyJX4O8FP8elyvzz3JkjEW9Uq0uenHAwm1xhZps)
+![App Screenshot](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/Screenshot%20(180).png)
 ## Contributing
 
 Contributions are always welcome!
