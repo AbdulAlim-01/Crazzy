@@ -3,7 +3,7 @@
 The free, open-source, offline desktop version of Crazzy. An AI tool that generates boilerplate Flutter code from simple text prompts.
 
 
-![banner]((https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/banner.png))
+![banner](https://azsvtvejupdeczkzhcbw.supabase.co/storage/v1/object/public/open%20source/banner.png)
 
 ---
 > ## ✨ This is the Community Edition. Want More Power?
